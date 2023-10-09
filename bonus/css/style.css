@@ -46,15 +46,15 @@ td{
     width: 100vw;
 }
 table thead{
-    background-color:rgb(15, 148, 201);
+    background-color:rgb(0, 159, 207);
     color: white;
 }
 table tbody{
-    background-color: rgb(197, 255, 255);
+    background-color: rgb(0, 238, 255);
 }
 
 tr:nth-child(2){
-    background-color: white;
+    background-color:rgb(255, 255, 255);
 }
 /* fin */
 
