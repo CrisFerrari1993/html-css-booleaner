@@ -1,0 +1,23 @@
+/* General page setup */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Head, container & img setup */
+.head {
+    background-color:#4876FF ;
+    background-image: url(../img/pattern.png);
+    height: 155px;
+}
+#logo {
+    height: 200px;
+    width: 200px;
+}
+.title span {
+    color: grey;
+    font-size: 15px;
+}
+.img span {
+    font-size: 13px;
+}
