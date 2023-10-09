@@ -3,31 +3,38 @@ body {
     padding: 0;
     margin: 0;
 }
+
 section {
     margin-left: 5px;
 }
+
 /* Head, container & img setup */
 .head {
-    background-color:#4876FF ;
+    background-color: #4876FF;
     background-image: url(../img/pattern.png);
     height: 150px;
     width: 100vw;
 }
+
 .title {
     margin-bottom: 10px;
 }
+
 #data {
     font-size: 10px;
 }
+
 #logo {
     padding-left: 5px;
     height: 200px;
     width: 200px;
 }
+
 .title span {
     color: grey;
     font-size: 15px;
 }
+
 .img span {
     font-size: 10px;
 }
@@ -42,27 +49,32 @@ table {
     border-spacing: 0px;
     display: block;
 }
-td{
+
+td {
     width: 100vw;
 }
-table thead{
-    background-color:rgb(15, 148, 201);
+
+table thead {
+    background-color: rgb(0, 159, 207);
     color: white;
 }
-table tbody{
-    background-color: rgb(197, 255, 255);
+
+table tbody {
+    background-color: rgb(0, 238, 255);
 }
 
-tr:nth-child(2){
-    background-color: white;
+tr:nth-child(2) {
+    background-color: rgb(255, 255, 255);
 }
+
 /* fin */
 
 /* footer section */
-footer{
+footer {
     color: gray;
 }
-.img_footer{
+
+.img_footer {
     margin-top: 10px;
     background-image: url(../img/monitor.jpg);
     width: 250px;
@@ -70,7 +82,9 @@ footer{
     color: white;
     text-align: left;
     padding: 5px;
+    font-size: 20px;
 }
+
 .img_footer2 {
     margin-top: 10px;
     background-image: url(../img/graph.jpg);
@@ -79,5 +93,7 @@ footer{
     color: white;
     text-align: left;
     padding: 5px;
+    font-size: 20px;
 }
+
 /* fin */
